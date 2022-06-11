@@ -1,6 +1,6 @@
 # MangGAN
 MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing
-The paper "***MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing***" has been accepted by AAAI 2021.
+The paper "***MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing***" has been accepted by AAAI 2021 
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16364).
 
 If the paper is useful for your research, please cite
