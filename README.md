@@ -20,9 +20,9 @@ Manga is a world popular comic form originated in Japan, which typically employs
 <div align=center><img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/image1.gif" width="500" /></div>
 
 * The algorithm has been applied in the mobile application ***Remini***
-<tr>
- <td align="center"><div align=center><img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/app.png" width="300" /></div></td>
- <td align="center" ><div align=center><img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/image3.gif" width="300" /></div></td>
-</tr>
+<td>
+ <tr align="center"><div align=center><img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/app.png" width="300" /></div></tr>
+ <tr align="center" ><div align=center><img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/image3.gif" width="300" /></div></tr>
+</td>
 
 
