@@ -1,6 +1,6 @@
 # MangGAN
 MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing
-The paper "***MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing***" has been accepted by AAAI 2021. If the paper is useful for your research, please cite
+The paper "***MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing***" has been accepted by AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16364). If the paper is useful for your research, please cite
 ```
 @inproceedings{su2021mangagan,
   title={Mangagan: Unpaired photo-to-manga translation based on the methodology of manga drawing},
@@ -19,7 +19,7 @@ Manga is a world popular comic form originated in Japan, which typically employs
 ## Demos
 <div align=center><img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/image1.gif" width="500" /></div>
 
-* The algorithm has been applied in the mobile application ***Remini***
+* The algorithm has been applied in the mobile application ***Remini***.
 <table align="center">
 <tr align="center">
  <td align="center" width="400"><div align=center><img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/app.png" width="300" /></div></td>
