@@ -15,4 +15,4 @@ The paper "***MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodo
 ## Introduction
 * The code has been deployed on the mobile application ***Remini***
 <img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/image1.gif" width="500" align="center"/>
-<img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/image3.gif" width="500" />
+<img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/image3.gif" width="300" align="center"/>
