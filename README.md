@@ -17,6 +17,8 @@ If the paper is useful for your research, please cite
 ```
 ## Introduction
 
+<div align=center><img src="https://github.com/SwordHolderSH/MangGAN/blob/main/outputs/cover5.jpg" width="600" /></div>
+
 Manga is a world popular comic form originated in Japan, which typically employs black-and-white stroke lines and geometric exaggeration to describe humans' appearances, poses, and actions. In this paper, we propose MangaGAN, the first method based on Generative Adversarial Network (GAN) for unpaired photo-to-manga translation. Inspired by the drawing process of experienced manga artists, MangaGAN generates geometric features and converts each facial region into the manga domain with a tailored multi-GANs architecture. For training MangaGAN, we collect a new data-set from a popular manga work with extensive features. To produce high-quality manga faces, we propose a structural smoothing loss to smooth stroke-lines and avoid noisy pixels, and a similarity preserving module to improve the similarity between domains of photo and manga. Extensive experiments show that MangaGAN can produce high-quality manga faces preserving both the facial similarity and manga style, and outperforms other reference methods.
 
 ## Demos
